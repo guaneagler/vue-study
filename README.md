@@ -1,4 +1,4 @@
-# hello-world
+# VUE-STUDY
 
 ## Project setup
 ```
